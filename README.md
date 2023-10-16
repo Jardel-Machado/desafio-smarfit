@@ -23,8 +23,7 @@ Para executar a aplicação localmente, siga os passos abaixo:
 
 1. Clone este repositório:
   git clone https://github.com/Jardel-Machado/desafio-smartfit.git
-  cd smartfit-frontend-challenge
-3. Instale as dependências:
+2. Instale as dependências:
   npm install
-4. Inicie a aplicação:
+3. Inicie a aplicação:
   npm start
